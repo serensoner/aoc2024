@@ -1,7 +1,7 @@
-from p1 import Problem1
+from p2 import Problem2
 
 
-p = Problem1()
+p = Problem2()
 p.test('1')
 p.solve('1')
 p.test('2')
