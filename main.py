@@ -1,7 +1,6 @@
-from p19 import Problem19
+from p22 import Problem22
 
-
-p = Problem19()
+p = Problem22()
 
 p.test('1')
 p.solve('1')
